@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./renovatioacrefo00prengoog_0006.png"; bbox 0 0 3950 5975; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1049 2641 2544 2734">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1049 2641 2544 2734">
+     <span class='ocr_line' id='line_1_1' title="bbox 1049 2641 2544 2734; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1049 2641 1632 2732; x_wconf 82' lang='lat' dir='ltr'><strong>RENOVATIO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1700 2642 1824 2732; x_wconf 83' lang='lat' dir='ltr'><strong>AG</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1893 2642 2544 2734; x_wconf 79' lang='lat' dir='ltr'>REFORMATlo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 806 2958 2754 3132">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 806 2958 2754 3132">
+     <span class='ocr_line' id='line_1_2' title="bbox 806 2958 2754 3132; baseline -0.001 -57"><span class='ocrx_word' id='word_1_4' title='bbox 806 2960 986 3132; x_wconf 20' lang='lat' dir='ltr'><strong>&#39;IN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1064 2958 1972 3076; x_wconf 83' lang='lat' dir='ltr'><strong>UNIVERSITATE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2053 2959 2754 3078; x_wconf 82' lang='lat' dir='ltr'>CADOMENSI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1460 3314 2148 3390">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1460 3314 2148 3390">
+     <span class='ocr_line' id='line_1_3' title="bbox 1460 3314 2148 3390; baseline 0.003 -16"><span class='ocrx_word' id='word_1_7' title='bbox 1460 3315 1774 3390; x_wconf 84' lang='lat' dir='ltr'>pppppp</span> <span class='ocrx_word' id='word_1_8' title='bbox 1819 3314 2148 3376; x_wconf 80' lang='lat' dir='ltr'>saeculum</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
